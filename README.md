@@ -32,8 +32,6 @@ I want to be a backend developer who communicates well.
 <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white">
 
 ## Interest Backend Skil
-<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&amp;logo=java&amp;logoColor=white">, 
-<img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&amp;logo=spring&amp;logoColor=white">, 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&amp;logo=node.js&amp;logoColor=white">, 
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&amp;logo=express&amp;logoColor=%2361DAFB">, 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white">, 
