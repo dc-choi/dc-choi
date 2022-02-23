@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### DongChul Choi
 Hi. This is DongChul.
 
-I want to be a backend developer who communicates well.
+<!-- I want to be a backend developer who communicates well. -->
 
 ## How to learn CS
 <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&amp;logo=c&amp;logoColor=white">, 
