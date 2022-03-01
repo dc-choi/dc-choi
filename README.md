@@ -37,7 +37,7 @@ Hi. This is DongChul.
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&amp;logo=node.js&amp;logoColor=white">, 
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&amp;logo=express&amp;logoColor=%2361DAFB">, 
 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&amp;logo=nestjs&amp;logoColor=white">, 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white">, 
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white"> 
 <!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&amp;logo=mongodb&amp;logoColor=white">,  -->
 <!-- <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&amp;logo=redis&amp;logoColor=white">  -->
 
