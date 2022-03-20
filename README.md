@@ -27,7 +27,7 @@ Hi. This is DongChul.
 
 <!-- I want to be a backend developer who communicates well. -->
 
-## How to learn CS
+## How to learn Computer science
 <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&amp;logo=c&amp;logoColor=white">, 
 <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white">
 
