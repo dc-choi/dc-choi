@@ -28,9 +28,9 @@ Hi. This is DongChul.
 <!-- I want to be a backend developer who communicates well. -->
 
 ## How to learn Computer science
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black">, 
 <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&amp;logo=c&amp;logoColor=white">, 
-<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white">, 
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black">
 
 ## Interest Backend Skil
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white">, 
@@ -43,11 +43,11 @@ Hi. This is DongChul.
 <!-- <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&amp;logo=redis&amp;logoColor=white">  -->
 
 ## Interest DevOps Skil
-<!-- <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&amp;logo=jenkins&amp;logoColor=white">,  -->
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&amp;logo=git&amp;logoColor=white">, 
-<img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&amp;logo=docker&amp;logoColor=white">, 
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&amp;logo=kubernetes&amp;logoColor=white">, 
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white">, 
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&amp;logo=jenkins&amp;logoColor=white">
+<!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&amp;logo=docker&amp;logoColor=white">, -->
+<!-- <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&amp;logo=kubernetes&amp;logoColor=white">, -->
 
 ### Use Langs
 <div align=center>
