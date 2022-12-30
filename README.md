@@ -41,13 +41,13 @@ Hi. This is DongChul.
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&amp;logo=git&amp;logoColor=white">, 
 
 ## Interest DevOps Skil
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white"> 
-<!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&amp;logo=mongodb&amp;logoColor=white">,  -->
-<!-- <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&amp;logo=redis&amp;logoColor=white">  -->
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white">, 
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white">, 
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&amp;logo=jenkins&amp;logoColor=white">
 <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&amp;logo=docker&amp;logoColor=white">, -->
-<!-- <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&amp;logo=kubernetes&amp;logoColor=white">, -->
+<!-- <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&amp;logo=kubernetes&amp;logoColor=white"> -->
+<!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&amp;logo=mongodb&amp;logoColor=white">  -->
+<!-- <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&amp;logo=redis&amp;logoColor=white">  -->
 
 ### Use Langs
 <div align=center>
