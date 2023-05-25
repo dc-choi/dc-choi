@@ -49,11 +49,13 @@ Hi. This is DongChul.
 <!-- <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&amp;logo=kubernetes&amp;logoColor=white"> -->
 <!-- <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&amp;logo=redis&amp;logoColor=white">  -->
 
+<!--
 ### Use Langs
 <div align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dc-choi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+-->
 
 ### GitHub stats
 <div align=center>
