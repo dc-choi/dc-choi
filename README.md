@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ### DongChul Choi
 Hi. This is DongChul.
 
-I am currently working as a Web Backend Developer at WizClass.
-
 I have experience working and communicating with people throughout my career.
 
 and I have experience improving performance and refactoring legacy code to solve problems.
