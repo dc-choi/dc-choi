@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 ### DongChul Choi
 Hi. This is DongChul.
 
+<!--
+I want to be a backend developer who communicates well. 
+
 I have experience working and communicating with people throughout my career.
 
 and I have experience improving performance and refactoring legacy code to solve problems.
@@ -38,6 +41,7 @@ So I try to use concise and meaningful variable names, and for the architectural
 Finally, I love meeting people and talking about development, so feel free to send me an email.
 
 Thanks for reading my long introduction and feel free to contact me.
+-->
 
 <!-- I want to be a backend developer who communicates well. -->
 
