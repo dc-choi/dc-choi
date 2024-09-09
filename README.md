@@ -47,15 +47,16 @@ Thanks for reading my long introduction and feel free to contact me.
 
 ## How to learn Computer science
 <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&amp;logo=c&amp;logoColor=white">, 
-<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white">, 
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black">
 
-<!-- <img src="https://img.shields.io/badge/Java-26689A?style=flat-square&logo=OpenJDK&logoColor=white"/>,
+<!--
+<img src="https://img.shields.io/badge/Java-26689A?style=flat-square&logo=OpenJDK&logoColor=white"/>,
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>,
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>,
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=black"/>,
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=black"/>
 <br>
+<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white">, 
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white">, 
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&amp;logo=typescript&amp;logoColor=white">, 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&amp;logo=node.js&amp;logoColor=white">, 
