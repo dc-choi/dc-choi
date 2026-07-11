@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 500 3360">
-  <title id="title">DongChul Choi — mobile terminal-style developer profile</title>
-  <desc id="desc">ASCII portrait and a mobile-friendly summary of DongChul Choi's backend role at KINOLIGHTS, work stack, links, and GitHub activity.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 500 500">
+  <title id="title">DongChul Choi — mobile primary technology stack</title>
+  <desc id="desc">A compact mobile terminal-style card listing the primary backend, API, data, AWS, and operations stack used by DongChul Choi at KINOLIGHTS.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -8,214 +8,27 @@
       <stop offset="1" stop-color="#0b1324"/>
     </linearGradient>
     <style>
-      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
-      .label { fill: #d29922; font-size: 16px; font-weight: 600; }
-      .value { fill: #b6d7ff; font-size: 13px; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; font-variant-ligatures: none; }
+      .label { fill: #d29922; font-size: 15.5px; font-weight: 700; }
+      .value { fill: #b6d7ff; font-size: 13.2px; }
       .leader { stroke: #3d4757; stroke-width: 1.4; stroke-dasharray: 2 6; }
-      .divider { stroke: #293548; stroke-width: 1; }
-      .stack-label { fill: #d29922; font-size: 15px; font-weight: 700; }
-      .stack-value { fill: #b6d7ff; font-size: 13.2px; }
     </style>
   </defs>
 
-  <rect width="500" height="3360" rx="22" fill="url(#background)"/>
-  <rect x="1" y="1" width="498" height="3358" rx="21" fill="none" stroke="#30363d" stroke-width="2"/>
-
-  <g transform="translate(0 -50)">
-  <image href="ascii-portrait.png" x="107" y="55" width="286" height="430" preserveAspectRatio="xMidYMid meet" style="mix-blend-mode:screen"/>
-  <text x="250" y="492" text-anchor="middle" class="mono" fill="#f0f6fc" font-size="22" font-weight="700">DongChul Choi</text>
-  <text x="250" y="520" text-anchor="middle" class="mono" fill="#8b949e" font-size="14">TypeScript · backend · infrastructure</text>
+  <rect width="500" height="500" rx="22" fill="url(#background)"/>
+  <rect x="1" y="1" width="498" height="498" rx="21" fill="none" stroke="#30363d" stroke-width="2"/>
 
   <g class="mono">
-    <line x1="40" y1="548" x2="460" y2="548" class="divider"/>
-    <text x="40" y="579" fill="#f0f6fc" font-size="18" font-weight="700">dongchul@github</text>
-    <text x="40" y="602" fill="#8b949e" font-size="13">$ neofetch --profile</text>
+    <text x="32" y="45" fill="#f0f6fc" font-size="19" font-weight="700">dc-choi@github</text>
+    <line x1="214" y1="39" x2="468" y2="39" stroke="#4b5563" stroke-width="1"/>
+    <text x="32" y="71" fill="#8b949e" font-size="13">$ stack --primary</text>
+    <text x="32" y="97" fill="#8b949e" font-size="13">Backend Engineer @ KINOLIGHTS</text>
 
-    <g transform="translate(0 640)"><text x="40" class="label">OS</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">macOS · Linux</text></g>
-    <g transform="translate(0 668)"><text x="40" class="label">Location</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">Seoul, Korea</text></g>
-    <g transform="translate(0 696)"><text x="40" class="label">Role</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">Backend Engineer</text></g>
-    <g transform="translate(0 724)"><text x="40" class="label">Company</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">KINOLIGHTS</text></g>
-    <g transform="translate(0 752)"><text x="40" class="label">Focus</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">Backend · Infra · DevOps</text></g>
-
-    <line x1="40" y1="772" x2="460" y2="772" class="divider"/>
-    <g transform="translate(0 802)"><text x="40" class="label">Website</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">kinolights.com</text></g>
-    <g transform="translate(0 830)"><text x="40" class="label">Blog</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">dc-choi.tistory.com</text></g>
-    <g transform="translate(0 858)"><text x="40" class="label">GitHub</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">github.com/dc-choi</text></g>
-
-    <line x1="40" y1="880" x2="460" y2="880" class="divider"/>
-    <g transform="translate(0 910)"><text x="40" class="label">Repositories</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">68 public (2026-07)</text></g>
-    <g transform="translate(0 938)"><text x="40" class="label">Followers</text><line x1="192" x2="232" y1="-5" y2="-5" class="leader"/><text x="248" class="value">53 (2026-07)</text></g>
-  </g>
-  </g>
-
-  <g class="mono">
-    <line x1="40" y1="920" x2="460" y2="920" class="divider"/>
-    <text x="40" y="950" fill="#f0f6fc" font-size="18" font-weight="700">stack@portfolio+kinolights</text>
-    <line x1="340" y1="944" x2="460" y2="944" stroke="#4b5563" stroke-width="1"/>
-
-    <g transform="translate(40 990)">
-      <text class="stack-label">Languages.Formats</text>
-      <text y="22" class="stack-value">TypeScript · JavaScript · Java · C</text>
-      <text y="39" class="stack-value">SQL · HTML · JSON · JSP · Excel</text>
-      <text y="56" class="stack-value">RDB · NoSQL · POSIX</text>
-    </g>
-    <g transform="translate(40 1084)">
-      <text class="stack-label">Runtime.OS</text>
-      <text y="22" class="stack-value">Node.js · Amazon Linux 2</text>
-      <text y="39" class="stack-value">Ubuntu · CentOS 7.1 · Debian · Linux</text>
-      <text y="56" class="stack-value">VirtualBox · On-Premises</text>
-    </g>
-    <g transform="translate(40 1178)">
-      <text class="stack-label">Node.Backend</text>
-      <text y="22" class="stack-value">NestJS · Express.js</text>
-      <text y="39" class="stack-value">@nestjs/schedule · @nestjs/bullmq</text>
-      <text y="56" class="stack-value">@nestjs/axios · node-schedule</text>
-    </g>
-    <g transform="translate(40 1272)">
-      <text class="stack-label">Spring.Backend</text>
-      <text y="22" class="stack-value">Spring · Spring Boot · Spring MVC</text>
-      <text y="39" class="stack-value">Spring Data JPA · Spring Batch</text>
-      <text y="56" class="stack-value">Quartz · Spring JavaMailSender</text>
-      <text y="73" class="stack-value">Thymeleaf · Apache HttpClient</text>
-    </g>
-    <g transform="translate(40 1366)">
-      <text class="stack-label">Libraries.Integration</text>
-      <text y="22" class="stack-value">Jxls · SimpleWebAuthn</text>
-      <text y="39" class="stack-value">Google Translation API</text>
-      <text y="56" class="stack-value">Hana Bank API · Web Scraping</text>
-      <text y="73" class="stack-value">SMTP · Google SMTP</text>
-    </g>
-    <g transform="translate(40 1460)">
-      <text class="stack-label">ORM.DataAccess</text>
-      <text y="22" class="stack-value">TypeORM · Prisma · JPA</text>
-      <text y="39" class="stack-value">Hibernate · Querydsl-JPA · Kysely</text>
-      <text y="56" class="stack-value">Sequelize · Mongoose · MyBatis</text>
-      <text y="73" class="stack-value">JDBC</text>
-    </g>
-    <g transform="translate(40 1554)">
-      <text class="stack-label">Databases</text>
-      <text y="22" class="stack-value">MySQL · MySQL Community</text>
-      <text y="39" class="stack-value">MariaDB · MongoDB · Redis · Oracle</text>
-      <text y="56" class="stack-value">Aurora MySQL · DynamoDB</text>
-    </g>
-    <g transform="translate(40 1648)">
-      <text class="stack-label">API.Security</text>
-      <text y="22" class="stack-value">GraphQL · Apollo · Apollo Studio</text>
-      <text y="39" class="stack-value">REST · tRPC · HTTP</text>
-      <text y="56" class="stack-value">WebAuthn · FIDO · PKI</text>
-      <text y="73" class="stack-value">FIDO Alliance Test Tool</text>
-    </g>
-    <g transform="translate(40 1742)">
-      <text class="stack-label">Testing.Quality</text>
-      <text y="22" class="stack-value">JUnit 5 · Jest · Mocha · Chai</text>
-      <text y="39" class="stack-value">SuperTest · SonarQube</text>
-      <text y="56" class="stack-value">Unit · Integration · Coverage</text>
-      <text y="73" class="stack-value">ESLint · Prettier</text>
-    </g>
-    <g transform="translate(40 1836)">
-      <text class="stack-label">AWS.Compute</text>
-      <text y="22" class="stack-value">AWS · Lightsail · EC2 · ECS</text>
-      <text y="39" class="stack-value">ECS Fargate · ECR · Lambda</text>
-      <text y="56" class="stack-value">AWS Batch · Auto Scaling</text>
-      <text y="73" class="stack-value">ECS Rolling Update</text>
-    </g>
-    <g transform="translate(40 1930)">
-      <text class="stack-label">AWS.Data.Storage</text>
-      <text y="22" class="stack-value">RDS · ElastiCache</text>
-      <text y="39" class="stack-value">RDS Read Replica</text>
-      <text y="56" class="stack-value">S3 Object Storage</text>
-    </g>
-    <g transform="translate(40 2024)">
-      <text class="stack-label">AWS.Messaging</text>
-      <text y="22" class="stack-value">SQS · SNS · SES · EventBridge</text>
-    </g>
-    <g transform="translate(40 2118)">
-      <text class="stack-label">AWS.Network</text>
-      <text y="22" class="stack-value">VPC · CloudFront · ELB · ALB</text>
-      <text y="39" class="stack-value">NLB · Route 53 · WAF</text>
-    </g>
-    <g transform="translate(40 2212)">
-      <text class="stack-label">Cloud.Containers</text>
-      <text y="22" class="stack-value">NCloud (NCP) · Docker</text>
-      <text y="39" class="stack-value">Docker Multi-stage · .dockerignore</text>
-      <text y="56" class="stack-value">Nginx · Reverse Proxy · PM2</text>
-      <text y="73" class="stack-value">Serverless Framework</text>
-    </g>
-    <g transform="translate(40 2306)">
-      <text class="stack-label">CI/CD.SCM</text>
-      <text y="22" class="stack-value">Git · GitHub · Bitbucket · Jenkins</text>
-      <text y="39" class="stack-value">GitHub Actions · release-please</text>
-      <text y="56" class="stack-value">CI/CD · Pull Requests</text>
-      <text y="73" class="stack-value">SCP</text>
-    </g>
-    <g transform="translate(40 2400)">
-      <text class="stack-label">Metrics</text>
-      <text y="22" class="stack-value">Prometheus · Thanos · Grafana</text>
-      <text y="39" class="stack-value">Grafana Alerting · SLO</text>
-      <text y="56" class="stack-value">Prometheus Registry · Thanos Sidecar</text>
-      <text y="73" class="stack-value">CloudWatch · ReplicaLag</text>
-    </g>
-    <g transform="translate(40 2494)">
-      <text class="stack-label">Logs.Tracing</text>
-      <text y="22" class="stack-value">Loki · Promtail · FireLens</text>
-      <text y="39" class="stack-value">Loki Distributor · Loki Ingester</text>
-      <text y="56" class="stack-value">Loki Compactor · Promtail Drop stage</text>
-      <text y="73" class="stack-value">JSON Lines · TraceIdMiddleware</text>
-    </g>
-    <g transform="translate(40 2588)">
-      <text class="stack-label">APM.Search.Analytics</text>
-      <text y="22" class="stack-value">Datadog · OpenSearch Service</text>
-      <text y="39" class="stack-value">Elasticsearch · Sentry</text>
-      <text y="56" class="stack-value">Amplitude · OpsNow360</text>
-      <text y="73" class="stack-value">HttpLoggingInterceptor</text>
-    </g>
-    <g transform="translate(40 2682)">
-      <text class="stack-label">AI.Native</text>
-      <text y="22" class="stack-value">Claude Code · Agent Teams</text>
-      <text y="39" class="stack-value">Subagents · Custom Skills</text>
-      <text y="56" class="stack-value">Hooks · Stop Hook · PostToolUse</text>
-      <text y="73" class="stack-value">CLAUDE.md · Plan Mode · SDD</text>
-    </g>
-    <g transform="translate(40 2776)">
-      <text class="stack-label">Dev.Tooling</text>
-      <text y="22" class="stack-value">MCP · Context7</text>
-      <text y="39" class="stack-value">Stitch · Stitch MCP · Conductor</text>
-      <text y="56" class="stack-value">pnpm · Turborepo · Monorepo</text>
-      <text y="73" class="stack-value">lint:fix · typecheck</text>
-    </g>
-    <g transform="translate(40 2870)">
-      <text class="stack-label">Architecture</text>
-      <text y="22" class="stack-value">Microservices · MVC</text>
-      <text y="39" class="stack-value">Clean Architecture · Domain Modules</text>
-      <text y="56" class="stack-value">UseCase · DomainService · Router</text>
-      <text y="73" class="stack-value">Multi-tenant SaaS</text>
-    </g>
-    <g transform="translate(40 2964)">
-      <text class="stack-label">DB.Engineering</text>
-      <text y="22" class="stack-value">Event-driven · Async Replication</text>
-      <text y="39" class="stack-value">DB Transaction · Row Lock · Retry</text>
-      <text y="56" class="stack-value">Composite Index · EXPLAIN ANALYZE</text>
-      <text y="73" class="stack-value">SubQuery · JSON Functions · DLQ</text>
-    </g>
-    <g transform="translate(40 3058)">
-      <text class="stack-label">DB.Patterns</text>
-      <text y="22" class="stack-value">Primary · Read Replica</text>
-      <text y="39" class="stack-value">SELECT FOR UPDATE NOWAIT</text>
-      <text y="56" class="stack-value">relationLoadStrategy</text>
-      <text y="73" class="stack-value">IoT · VMI · OMS · WMS</text>
-    </g>
-    <g transform="translate(40 3152)">
-      <text class="stack-label">Compared.Evaluated</text>
-      <text y="22" class="stack-value">EKS · Kafka · AWS MSK</text>
-      <text y="39" class="stack-value">New Relic · ELK · DeepL</text>
-      <text y="56" class="stack-value">node-cron · Spring Scheduler</text>
-      <text y="73" class="stack-value">RestTemplate</text>
-    </g>
-    <g transform="translate(40 3246)">
-      <text class="stack-label">DB.Alternatives</text>
-      <text y="22" class="stack-value">Redis Distributed Lock</text>
-      <text y="39" class="stack-value">Raw Query · MyBatis Bulk Insert</text>
-      <text y="56" class="stack-value">MySQL MCP · Redis Cache Layer</text>
-    </g>
+    <line x1="32" y1="119" x2="468" y2="119" stroke="#293548" stroke-width="1"/>
+    <text x="32" y="152" class="label">Backend</text><line x1="140" x2="468" y1="147" y2="147" class="leader"/><text x="44" y="177" class="value">TypeScript · Node.js · NestJS</text>
+    <text x="32" y="223" class="label">API</text><line x1="140" x2="468" y1="218" y2="218" class="leader"/><text x="44" y="248" class="value">GraphQL · Apollo · REST</text>
+    <text x="32" y="294" class="label">Data</text><line x1="140" x2="468" y1="289" y2="289" class="leader"/><text x="44" y="319" class="value">MySQL · Prisma · TypeORM · DynamoDB</text>
+    <text x="32" y="365" class="label">AWS</text><line x1="140" x2="468" y1="360" y2="360" class="leader"/><text x="44" y="390" class="value">ECS Fargate · Lambda · RDS · SQS</text>
+    <text x="32" y="436" class="label">Ops</text><line x1="140" x2="468" y1="431" y2="431" class="leader"/><text x="44" y="461" class="value">Docker · GitHub Actions · Datadog · OpenSearch</text>
   </g>
 </svg>
