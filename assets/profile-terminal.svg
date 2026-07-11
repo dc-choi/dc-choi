@@ -1,0 +1,267 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1280 1325">
+  <title id="title">DongChul Choi — terminal-style developer profile</title>
+  <desc id="desc">ASCII portrait and a neofetch-inspired summary of DongChul Choi's backend role at KINOLIGHTS, work stack, links, and GitHub activity.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b1324"/>
+    </linearGradient>
+    <linearGradient id="portrait" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="0.48" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .label { fill: #d29922; font-size: 16px; font-weight: 600; }
+      .value { fill: #b6d7ff; font-size: 15px; }
+      .leader { stroke: #3d4757; stroke-width: 1.4; stroke-dasharray: 2 6; }
+      .divider { stroke: #293548; stroke-width: 1; }
+      .stack-label { fill: #d29922; font-size: 14px; font-weight: 700; }
+      .stack-value { fill: #b6d7ff; font-size: 12.7px; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="1325" rx="22" fill="url(#background)"/>
+  <rect x="1" y="1" width="1278" height="1323" rx="21" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <g transform="translate(0 -60)">
+  <ellipse cx="270" cy="330" rx="205" ry="245" fill="#7c3aed" fill-opacity="0.05" filter="url(#glow)"/>
+
+  <text class="mono" xml:space="preserve" x="66" y="118" fill="url(#portrait)" font-size="12.5" font-weight="600">
+    <tspan x="66" dy="0">                .--..   .. .</tspan>
+    <tspan x="66" dy="14.1">             @-::::. .     .:::</tspan>
+    <tspan x="66" dy="14.1">          @%%@+.:::.....    .. -=:</tspan>
+    <tspan x="66" dy="14.1">        #@@@@@#====-:...     . :=---</tspan>
+    <tspan x="66" dy="14.1">       *#@@%%@%==++=-..:.    . .:::::</tspan>
+    <tspan x="66" dy="14.1">     ::++++*#***=======+-::... :::::::: </tspan>
+    <tspan x="66" dy="14.1">    =-:-=+**:=+::==----=--==:-:---------</tspan>
+    <tspan x="66" dy="14.1">   ::.:=*###=*#-:+-:::. -==--=*---:------</tspan>
+    <tspan x="66" dy="14.1">  ---::..-==+=**+*===---****--========+++=</tspan>
+    <tspan x="66" dy="14.1">  ---:::.-==+****#=-+++##*##=:++=+**++**=-</tspan>
+    <tspan x="66" dy="14.1"> *====-::=+*%%*+*+=-+#**=*##+==-==---:--=**</tspan>
+    <tspan x="66" dy="14.1"> %===-:::--*@@*==---=*++=*##*#***+++++=**##</tspan>
+    <tspan x="66" dy="14.1">@#===---::=*%@#++=--=++==+*#**+++++*=+**#**=</tspan>
+    <tspan x="66" dy="14.1">*+==+===:-+++**==----++==++***+=+++=++++*+**</tspan>
+    <tspan x="66" dy="14.1">*+:.:-++:=++#%#++=::-=+===+++*=+**#@@@@#+*#*</tspan>
+    <tspan x="66" dy="14.1">+-  . .=-+***+-=*==-=======+=+=+++%@@@%+=#%#</tspan>
+    <tspan x="66" dy="14.1">=..... :-++=::::+==========#=-==++*******#%#</tspan>
+    <tspan x="66" dy="14.1">=.   ..-=--::::.-+====----=*:-=======*@%%@@@</tspan>
+    <tspan x="66" dy="14.1">=    .--:::::..:.:==------=-:-=-----==@@%@@@</tspan>
+    <tspan x="66" dy="14.1">     ::::.:::..:. .===-----:-=----::-==%@@@</tspan>
+    <tspan x="66" dy="14.1"> .  ::............ .-==-::=:---:::::---+@@@</tspan>
+    <tspan x="66" dy="14.1">   ::.... ........  .-=-:------:::.:::--#@</tspan>
+    <tspan x="66" dy="14.1">  .:..  .  .......    :-.  :--::. .:.:-:+*</tspan>
+    <tspan x="66" dy="14.1">   ..   .    . ..      .       ..  ..:.:-</tspan>
+    <tspan x="66" dy="14.1">             .             .  .   ..:..:</tspan>
+    <tspan x="66" dy="14.1">             .            :. ..    .. :</tspan>
+    <tspan x="66" dy="14.1">                         ::  ..</tspan>
+    <tspan x="66" dy="14.1">                        ::.  .</tspan>
+    <tspan x="66" dy="14.1">                       .:.   .</tspan>
+    <tspan x="66" dy="14.1">                       ..    .</tspan>
+    <tspan x="66" dy="14.1">                      ..</tspan>
+  </text>
+  <text x="270" y="585" text-anchor="middle" class="mono" fill="#f0f6fc" font-size="22" font-weight="700">DongChul Choi</text>
+  <text x="270" y="613" text-anchor="middle" class="mono" fill="#8b949e" font-size="14">TypeScript · backend · infrastructure</text>
+
+  <g class="mono">
+    <text x="590" y="116" fill="#f0f6fc" font-size="18" font-weight="700">dongchul@github</text>
+    <line x1="772" y1="110" x2="1214" y2="110" stroke="#4b5563" stroke-width="1"/>
+    <text x="590" y="139" fill="#8b949e" font-size="13">$ neofetch --profile</text>
+
+    <g transform="translate(0 170)"><text x="590" class="label">OS</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">macOS · Linux</text></g>
+    <g transform="translate(0 197)"><text x="590" class="label">Location</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">Seoul, Republic of Korea</text></g>
+    <g transform="translate(0 224)"><text x="590" class="label">Role</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">Backend Engineer</text></g>
+    <g transform="translate(0 251)"><text x="590" class="label">Company</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">KINOLIGHTS</text></g>
+    <g transform="translate(0 278)"><text x="590" class="label">Focus</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">Backend · Infrastructure · DevOps</text></g>
+
+    <line x1="590" y1="300" x2="1214" y2="300" class="divider"/>
+    <g transform="translate(0 329)"><text x="590" class="label">Website</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">kinolights.com</text></g>
+    <g transform="translate(0 356)"><text x="590" class="label">Blog</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">dc-choi.tistory.com</text></g>
+    <g transform="translate(0 383)"><text x="590" class="label">GitHub</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">github.com/dc-choi</text></g>
+
+    <line x1="590" y1="405" x2="1214" y2="405" class="divider"/>
+    <g transform="translate(0 434)"><text x="590" class="label">Repositories</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">68 public (2026-07)</text></g>
+    <g transform="translate(0 461)"><text x="590" class="label">Followers</text><line x1="785" x2="916" y1="-5" y2="-5" class="leader"/><text x="934" class="value">53 (2026-07)</text></g>
+  </g>
+  </g>
+
+  <g class="mono">
+    <line x1="40" y1="590" x2="1240" y2="590" class="divider"/>
+    <text x="40" y="620" fill="#f0f6fc" font-size="18" font-weight="700">stack@portfolio+kinolights</text>
+    <line x1="340" y1="614" x2="1240" y2="614" stroke="#4b5563" stroke-width="1"/>
+
+    <g transform="translate(40 650)">
+      <text class="stack-label">Languages.Formats</text>
+      <text y="22" class="stack-value">TypeScript · JavaScript · Java · C</text>
+      <text y="39" class="stack-value">SQL · HTML · JSON · JSP · Excel</text>
+      <text y="56" class="stack-value">RDB · NoSQL · POSIX</text>
+    </g>
+    <g transform="translate(40 744)">
+      <text class="stack-label">Runtime.OS</text>
+      <text y="22" class="stack-value">Node.js · Amazon Linux 2</text>
+      <text y="39" class="stack-value">Ubuntu · CentOS 7.1 · Debian · Linux</text>
+      <text y="56" class="stack-value">VirtualBox · On-Premises</text>
+    </g>
+    <g transform="translate(40 838)">
+      <text class="stack-label">Node.Backend</text>
+      <text y="22" class="stack-value">NestJS · Express.js</text>
+      <text y="39" class="stack-value">@nestjs/schedule · @nestjs/bullmq</text>
+      <text y="56" class="stack-value">@nestjs/axios · node-schedule</text>
+    </g>
+    <g transform="translate(40 932)">
+      <text class="stack-label">Spring.Backend</text>
+      <text y="22" class="stack-value">Spring · Spring Boot · Spring MVC</text>
+      <text y="39" class="stack-value">Spring Data JPA · Spring Batch</text>
+      <text y="56" class="stack-value">Quartz · Spring JavaMailSender</text>
+      <text y="73" class="stack-value">Thymeleaf · Apache HttpClient</text>
+    </g>
+    <g transform="translate(40 1026)">
+      <text class="stack-label">Libraries.Integration</text>
+      <text y="22" class="stack-value">Jxls · SimpleWebAuthn</text>
+      <text y="39" class="stack-value">Google Translation API</text>
+      <text y="56" class="stack-value">Hana Bank API · Web Scraping</text>
+      <text y="73" class="stack-value">SMTP · Google SMTP</text>
+    </g>
+    <g transform="translate(40 1120)">
+      <text class="stack-label">ORM.DataAccess</text>
+      <text y="22" class="stack-value">TypeORM · Prisma · JPA</text>
+      <text y="39" class="stack-value">Hibernate · Querydsl-JPA · Kysely</text>
+      <text y="56" class="stack-value">Sequelize · Mongoose · MyBatis</text>
+      <text y="73" class="stack-value">JDBC</text>
+    </g>
+
+    <g transform="translate(350 650)">
+      <text class="stack-label">Databases</text>
+      <text y="22" class="stack-value">MySQL · MySQL Community</text>
+      <text y="39" class="stack-value">MariaDB · MongoDB · Redis · Oracle</text>
+      <text y="56" class="stack-value">Aurora MySQL · DynamoDB</text>
+    </g>
+    <g transform="translate(350 744)">
+      <text class="stack-label">API.Security</text>
+      <text y="22" class="stack-value">GraphQL · Apollo · Apollo Studio</text>
+      <text y="39" class="stack-value">REST · tRPC · HTTP</text>
+      <text y="56" class="stack-value">WebAuthn · FIDO · PKI</text>
+      <text y="73" class="stack-value">FIDO Alliance Test Tool</text>
+    </g>
+    <g transform="translate(350 838)">
+      <text class="stack-label">Testing.Quality</text>
+      <text y="22" class="stack-value">JUnit 5 · Jest · Mocha · Chai</text>
+      <text y="39" class="stack-value">SuperTest · SonarQube</text>
+      <text y="56" class="stack-value">Unit · Integration · Coverage</text>
+      <text y="73" class="stack-value">ESLint · Prettier</text>
+    </g>
+    <g transform="translate(350 932)">
+      <text class="stack-label">AWS.Compute</text>
+      <text y="22" class="stack-value">AWS · Lightsail · EC2 · ECS</text>
+      <text y="39" class="stack-value">ECS Fargate · ECR · Lambda</text>
+      <text y="56" class="stack-value">AWS Batch · Auto Scaling</text>
+      <text y="73" class="stack-value">ECS Rolling Update</text>
+    </g>
+    <g transform="translate(350 1026)">
+      <text class="stack-label">AWS.Data.Storage</text>
+      <text y="22" class="stack-value">RDS · ElastiCache</text>
+      <text y="39" class="stack-value">RDS Read Replica</text>
+      <text y="56" class="stack-value">S3 Object Storage</text>
+    </g>
+    <g transform="translate(350 1120)">
+      <text class="stack-label">AWS.Messaging</text>
+      <text y="22" class="stack-value">SQS · SNS · SES · EventBridge</text>
+    </g>
+
+    <g transform="translate(660 650)">
+      <text class="stack-label">AWS.Network</text>
+      <text y="22" class="stack-value">VPC · CloudFront · ELB · ALB</text>
+      <text y="39" class="stack-value">NLB · Route 53 · WAF</text>
+    </g>
+    <g transform="translate(660 744)">
+      <text class="stack-label">Cloud.Containers</text>
+      <text y="22" class="stack-value">NCloud (NCP) · Docker</text>
+      <text y="39" class="stack-value">Docker Multi-stage · .dockerignore</text>
+      <text y="56" class="stack-value">Nginx · Reverse Proxy · PM2</text>
+      <text y="73" class="stack-value">Serverless Framework</text>
+    </g>
+    <g transform="translate(660 838)">
+      <text class="stack-label">CI/CD.SCM</text>
+      <text y="22" class="stack-value">Git · GitHub · Bitbucket · Jenkins</text>
+      <text y="39" class="stack-value">GitHub Actions · release-please</text>
+      <text y="56" class="stack-value">CI/CD · Pull Requests</text>
+      <text y="73" class="stack-value">SCP</text>
+    </g>
+    <g transform="translate(660 932)">
+      <text class="stack-label">Metrics</text>
+      <text y="22" class="stack-value">Prometheus · Thanos · Grafana</text>
+      <text y="39" class="stack-value">Grafana Alerting · SLO</text>
+      <text y="56" class="stack-value">Prometheus Registry · Thanos Sidecar</text>
+      <text y="73" class="stack-value">CloudWatch · ReplicaLag</text>
+    </g>
+    <g transform="translate(660 1026)">
+      <text class="stack-label">Logs.Tracing</text>
+      <text y="22" class="stack-value">Loki · Promtail · FireLens</text>
+      <text y="39" class="stack-value">Loki Distributor · Loki Ingester</text>
+      <text y="56" class="stack-value">Loki Compactor · Promtail Drop stage</text>
+      <text y="73" class="stack-value">JSON Lines · TraceIdMiddleware</text>
+    </g>
+    <g transform="translate(660 1120)">
+      <text class="stack-label">APM.Search.Analytics</text>
+      <text y="22" class="stack-value">Datadog · OpenSearch Service</text>
+      <text y="39" class="stack-value">Elasticsearch · Sentry</text>
+      <text y="56" class="stack-value">Amplitude · OpsNow360</text>
+      <text y="73" class="stack-value">HttpLoggingInterceptor</text>
+    </g>
+
+    <g transform="translate(970 650)">
+      <text class="stack-label">AI.Native</text>
+      <text y="22" class="stack-value">Claude Code · Agent Teams</text>
+      <text y="39" class="stack-value">Subagents · Custom Skills</text>
+      <text y="56" class="stack-value">Hooks · Stop Hook · PostToolUse</text>
+      <text y="73" class="stack-value">CLAUDE.md · Plan Mode · SDD</text>
+    </g>
+    <g transform="translate(970 744)">
+      <text class="stack-label">Dev.Tooling</text>
+      <text y="22" class="stack-value">MCP · Context7</text>
+      <text y="39" class="stack-value">Stitch · Stitch MCP · Conductor</text>
+      <text y="56" class="stack-value">pnpm · Turborepo · Monorepo</text>
+      <text y="73" class="stack-value">lint:fix · typecheck</text>
+    </g>
+    <g transform="translate(970 838)">
+      <text class="stack-label">Architecture</text>
+      <text y="22" class="stack-value">Microservices · MVC</text>
+      <text y="39" class="stack-value">Clean Architecture · Domain Modules</text>
+      <text y="56" class="stack-value">UseCase · DomainService · Router</text>
+      <text y="73" class="stack-value">Multi-tenant SaaS</text>
+    </g>
+    <g transform="translate(970 932)">
+      <text class="stack-label">DB.Engineering</text>
+      <text y="22" class="stack-value">Event-driven · Async Replication</text>
+      <text y="39" class="stack-value">DB Transaction · Row Lock · Retry</text>
+      <text y="56" class="stack-value">Composite Index · EXPLAIN ANALYZE</text>
+      <text y="73" class="stack-value">SubQuery · JSON Functions · DLQ</text>
+    </g>
+    <g transform="translate(970 1026)">
+      <text class="stack-label">DB.Patterns</text>
+      <text y="22" class="stack-value">Primary · Read Replica</text>
+      <text y="39" class="stack-value">SELECT FOR UPDATE NOWAIT</text>
+      <text y="56" class="stack-value">relationLoadStrategy</text>
+      <text y="73" class="stack-value">IoT · VMI · OMS · WMS</text>
+    </g>
+    <g transform="translate(970 1120)">
+      <text class="stack-label">Compared.Evaluated</text>
+      <text y="22" class="stack-value">EKS · Kafka · AWS MSK</text>
+      <text y="39" class="stack-value">New Relic · ELK · DeepL</text>
+      <text y="56" class="stack-value">node-cron · Spring Scheduler</text>
+      <text y="73" class="stack-value">RestTemplate</text>
+    </g>
+    <g transform="translate(970 1214)">
+      <text class="stack-label">DB.Alternatives</text>
+      <text y="22" class="stack-value">Redis Distributed Lock</text>
+      <text y="39" class="stack-value">Raw Query · MyBatis Bulk Insert</text>
+      <text y="56" class="stack-value">MySQL MCP · Redis Cache Layer</text>
+    </g>
+  </g>
+</svg>
