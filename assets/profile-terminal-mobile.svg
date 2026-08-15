@@ -22,7 +22,7 @@
     <text x="32" y="45" fill="#f0f6fc" font-size="19" font-weight="700">dc-choi@github</text>
     <line x1="214" y1="39" x2="468" y2="39" stroke="#4b5563" stroke-width="1"/>
     <text x="32" y="71" fill="#8b949e" font-size="13">$ stack --primary</text>
-    <text x="32" y="97" fill="#8b949e" font-size="13">Backend Engineer @ KINOLIGHTS</text>
+    <text x="32" y="97" fill="#8b949e" font-size="13">Backend Engineer</text>
 
     <line x1="32" y1="119" x2="468" y2="119" stroke="#293548" stroke-width="1"/>
     <text x="32" y="152" class="label">Backend</text><line x1="140" x2="468" y1="147" y2="147" class="leader"/><text x="44" y="177" class="value">TypeScript · Node.js · NestJS</text>
