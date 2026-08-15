@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 500 500">
   <title id="title">DongChul Choi — mobile primary technology stack</title>
-  <desc id="desc">A compact mobile terminal-style card listing the primary backend, API, data, AWS, and operations stack used by DongChul Choi at KINOLIGHTS.</desc>
+  <desc id="desc">A compact mobile terminal-style card listing the primary backend, API, data, AWS, and operations stack used by DongChul Choi.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
